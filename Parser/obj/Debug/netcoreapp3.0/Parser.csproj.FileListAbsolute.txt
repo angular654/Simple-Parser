@@ -1,0 +1,14 @@
+C:\Users\vivah\source\repos\Parser\Parser\bin\Debug\netcoreapp3.0\Parser.exe
+C:\Users\vivah\source\repos\Parser\Parser\obj\Debug\netcoreapp3.0\Parser.csprojAssemblyReference.cache
+C:\Users\vivah\source\repos\Parser\Parser\obj\Debug\netcoreapp3.0\Parser.AssemblyInfoInputs.cache
+C:\Users\vivah\source\repos\Parser\Parser\obj\Debug\netcoreapp3.0\Parser.AssemblyInfo.cs
+C:\Users\vivah\source\repos\Parser\Parser\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\vivah\source\repos\Parser\Parser\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\Users\vivah\source\repos\Parser\Parser\obj\Debug\netcoreapp3.0\Parser.csproj.CopyComplete
+C:\Users\vivah\source\repos\Parser\Parser\bin\Debug\netcoreapp3.0\Parser.deps.json
+C:\Users\vivah\source\repos\Parser\Parser\bin\Debug\netcoreapp3.0\Parser.runtimeconfig.json
+C:\Users\vivah\source\repos\Parser\Parser\bin\Debug\netcoreapp3.0\Parser.runtimeconfig.dev.json
+C:\Users\vivah\source\repos\Parser\Parser\bin\Debug\netcoreapp3.0\Parser.dll
+C:\Users\vivah\source\repos\Parser\Parser\bin\Debug\netcoreapp3.0\Parser.pdb
+C:\Users\vivah\source\repos\Parser\Parser\obj\Debug\netcoreapp3.0\Parser.dll
+C:\Users\vivah\source\repos\Parser\Parser\obj\Debug\netcoreapp3.0\Parser.pdb
