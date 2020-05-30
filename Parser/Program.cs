@@ -15,6 +15,8 @@ namespace Parser
             IWebDriver driver = new ChromeDriver();
             driver.Url = @"https://tproger.ru/";
             string data = driver.FindElement(By.Id("main_columns")).Text;
+            File.WriteAllText(Filepath, string.Empty);
+            // clear old data
             data = "https://tproger.ru/ \r\n" + data;
             try
             {
